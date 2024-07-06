@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="tour-quest-logo.png" alt="Tour Quest Logo" width="200"/>
-</div>
+
 
 # 🌟 Tour Quest: Discover Your Next Adventure! 🌍✈️
 
